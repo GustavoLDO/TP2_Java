@@ -19,7 +19,8 @@ TP2_Java/
 ├── SistemaTreinamentoTecnologia/ ← Sistema de controle de treinamentos de tecnologia
 ├── Sistema_de_Gerenciamento_InventarioPedidos/ ← Sistema de gerenciamento de inventário e pedidos
 ├── SteamLambda/ ← Atividade com uso de Streams e Lambdas em Java
-└── Validador_Email/ ← Validador de e-mails (exercício de regex e validação)
+├── Validador_Email/ ← Validador de e-mails (exercício de regex e validação)
+└── Consultas JPQL/  ← Projeto para aplicar e desenvolver consultas com o JPQL
 ```
 ---
 
