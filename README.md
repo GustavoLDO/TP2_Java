@@ -11,16 +11,16 @@ Cada pasta representa um sistema ou atividade diferente, abordando temas variado
 ```
 TP2_Java/
 └── Exercicios_JAVA/
-├── ConsomeApi/ ← Projeto de consumo de API (primeiro consumo)
-├── GestaoTarefas/ ← Sistema para controle e gestão de tarefas
-├── JornalAPI/ ← Projeto com integração de API de notícias
-├── ReservasPassagensAereas/ ← Sistema de reservas de passagens aéreas
-├── SistemaPedidosRestaurante/ ← Sistema de pedidos para restaurante
-├── SistemaTreinamentoTecnologia/ ← Sistema de controle de treinamentos de tecnologia
-├── Sistema_de_Gerenciamento_InventarioPedidos/ ← Sistema de gerenciamento de inventário e pedidos
-├── SteamLambda/ ← Atividade com uso de Streams e Lambdas em Java
-├── Validador_Email/ ← Validador de e-mails (exercício de regex e validação)
-└── Consultas JPQL/  ← Projeto para aplicar e desenvolver consultas com o JPQL
+      ├── ConsomeApi/ ← Projeto de consumo de API (primeiro consumo)
+      ├── GestaoTarefas/ ← Sistema para controle e gestão de tarefas
+      ├── JornalAPI/ ← Projeto com integração de API de notícias
+      ├── ReservasPassagensAereas/ ← Sistema de reservas de passagens aéreas
+      ├── SistemaPedidosRestaurante/ ← Sistema de pedidos para restaurante
+      ├── SistemaTreinamentoTecnologia/ ← Sistema de controle de treinamentos de tecnologia
+      ├── Sistema_de_Gerenciamento_InventarioPedidos/ ← Sistema de gerenciamento de inventário e pedidos
+      ├── SteamLambda/ ← Atividade com uso de Streams e Lambdas em Java
+      ├── Validador_Email/ ← Validador de e-mails (exercício de regex e validação)
+      └── Consultas JPQL/  ← Projeto para aplicar e desenvolver consultas com o JPQL
 ```
 ---
 
